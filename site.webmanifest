@@ -1,6 +1,6 @@
    {
-    "name": "deutscheführerschein",
-    "short_name": "deutscheführerschein",
+    "name": "Deutsche Führerschein",
+    "short_name": "Deutsche Führerschein",
     "icons": [
         {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMV0FG0MxxfgNQrdSQ-31k-PklG9zHT7IxdoUIJyyPJV1RRy3EcTRJDg4TlVOp7J6hQTm5OCYHfBKeQFM2D05aRc-sm1o5f4XZ6fDrAJ6zNHx7I0L93PwPafdnV2ibo96TSpQ2x1WYvn6rDyMMXRdRFHABHKKA1-ek-JiKwqVphngzkQoQ5DUAIyTRjA/s1600/android-chrome-192x192.png",
@@ -19,5 +19,5 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "prefer_related_applications": false,
-  "start_url": "https://www.xn--deutschefhrerschein-ebc.com/"
+  "start_url": "https://www.deutscheführerschein.com/"
 }
